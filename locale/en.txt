@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+model_1280A241_1FA3_9F7B_41BB_6E4C1444B3EC.label = wuhu_island_-_wii_sports_resort
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
